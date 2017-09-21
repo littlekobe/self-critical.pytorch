@@ -1,0 +1,6 @@
+data
+coco-caption
+cocoapi
+*.pyc
+eval_results
+vis
